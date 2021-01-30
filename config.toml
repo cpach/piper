@@ -1,0 +1,6 @@
+baseURL = "https://piper.tunnel53.net/"
+languageCode = "en-us"
+title = "The Piper at the Gates of Dawn"
+
+[taxonomies]
+  tag = "tags"

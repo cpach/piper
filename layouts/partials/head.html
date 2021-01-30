@@ -1,0 +1,9 @@
+<head>
+<meta charset="utf-8">
+{{ $title := print .Title " | " .Site.Title }}
+{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+<title>{{ $title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.tunnel53.net/style/water-light.css">
+{{ hugo.Generator }}
+</head>

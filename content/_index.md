@@ -10,4 +10,11 @@ formidable [Hugo CMS](https://gohugo.io/).
 Best regards,  
 [Carl](https://hsm.tunnel53.net/)
 
+## Articles
+
+[Nirvana](/articles/nirvana/) / [Cucumbers](/articles/cucumbers/) /
+[Commedia dell’arte](/articles/commedia-dellarte/) /
+[Alder](/articles/alder/) / [Succade](/articles/succade/) /
+[Rococo](/articles/rococo/) / [Platypuses](/articles/platypuses/)
+
 ## Blog posts

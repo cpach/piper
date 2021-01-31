@@ -4,10 +4,7 @@
 
 {{.Content}}
 
-{{/* FIXME: The below range will include both regular articles _and_
-blogposts. That must be fixed. */}}
-
-{{ range .Site.RegularPages.ByPublishDate.Reverse }}
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "blog" }}
 <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
 {{ end }}
 

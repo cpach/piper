@@ -12,6 +12,7 @@ Best regards,
 
 ## Articles
 
+[Philology](/articles/philology/) /
 [Nirvana](/articles/nirvana/) /
 [Cucumbers](/articles/cucumbers/) /
 [Commedia dell’arte](/articles/commedia-dellarte/) /

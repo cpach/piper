@@ -12,9 +12,12 @@ Best regards,
 
 ## Articles
 
-[Nirvana](/articles/nirvana/) / [Cucumbers](/articles/cucumbers/) /
+[Nirvana](/articles/nirvana/) /
+[Cucumbers](/articles/cucumbers/) /
 [Commedia dell’arte](/articles/commedia-dellarte/) /
-[Alder](/articles/alder/) / [Succade](/articles/succade/) /
-[Rococo](/articles/rococo/) / [Platypuses](/articles/platypuses/)
+[Alder](/articles/alder/) /
+[Succade](/articles/succade/) /
+[Rococo](/articles/rococo/) /
+[Platypuses](/articles/platypuses/)
 
 ## Blog posts

@@ -17,12 +17,12 @@ Best regards,
 
 ## Articles
 
-[Philology](/articles/philology/) /
-[Nirvana](/articles/nirvana/) /
-[Cucumbers](/articles/cucumbers/) /
-[Commedia dell’arte](/articles/commedia-dellarte/) /
-[Alder](/articles/alder/) /
-[Succade](/articles/succade/) /
-[Rococo](/articles/rococo/) /
-[Platypuses](/articles/platypuses/)
+[Philology](/article/philology/) /
+[Nirvana](/article/nirvana/) /
+[Cucumbers](/article/cucumbers/) /
+[Commedia dell’arte](/article/commedia-dellarte/) /
+[Alder](/article/alder/) /
+[Succade](/article/succade/) /
+[Rococo](/article/rococo/) /
+[Platypuses](/article/platypuses/)
 

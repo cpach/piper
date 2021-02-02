@@ -14,9 +14,11 @@
 
 <h2>Recipes</h2>
 
+<p>
 {{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "recipe" }}
-<p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+<a href="{{ .RelPermalink }}">{{ .Title }}</a> /
 {{ end }}
+</p>
 
 <h2>Blog posts</h2>
 

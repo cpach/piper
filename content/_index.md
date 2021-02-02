@@ -14,15 +14,3 @@ Best regards,
 
 - [Phony about page](/about/)
 - [Phony contact information](/contact/)
-
-## Articles
-
-[Philology](/article/philology/) /
-[Nirvana](/article/nirvana/) /
-[Cucumbers](/article/cucumbers/) /
-[Commedia dell’arte](/article/commedia-dellarte/) /
-[Alder](/article/alder/) /
-[Succade](/article/succade/) /
-[Rococo](/article/rococo/) /
-[Platypuses](/article/platypuses/)
-

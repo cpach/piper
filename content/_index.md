@@ -10,6 +10,11 @@ formidable [Hugo CMS](https://gohugo.io/).
 Best regards,  
 [Carl](https://hsm.tunnel53.net/)
 
+## Meta
+
+- [Phony about page](/about/)
+- [Phony contact information](/contact/)
+
 ## Articles
 
 [Philology](/articles/philology/) /

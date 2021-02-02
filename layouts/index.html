@@ -12,6 +12,14 @@
 {{ end }}
 </p>
 
+<h2>Articles in Swedish</h2>
+
+<p>
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "artikel" }}
+<a href="{{ .RelPermalink }}">{{ .Title }}</a> /
+{{ end }}
+</p>
+
 <h2>Recipes</h2>
 
 <p>

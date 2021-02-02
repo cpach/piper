@@ -26,4 +26,3 @@ Best regards,
 [Rococo](/articles/rococo/) /
 [Platypuses](/articles/platypuses/)
 
-## Blog posts

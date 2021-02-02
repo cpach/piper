@@ -4,6 +4,8 @@
 
 {{.Content}}
 
+<h2>Blog posts</h2>
+
 {{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "blog" }}
 <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
 {{ end }}

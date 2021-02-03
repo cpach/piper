@@ -36,4 +36,4 @@ Illa videamus, quae a te de amicitia dicta sunt. Urgent tamen et nihil
 remittunt. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri.
 Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Dic in quovis
 conventu te omnia facere, ne doleas. Illis videtur, qui illud non dubitant
-bonum dicere -;
+bonum dicere.

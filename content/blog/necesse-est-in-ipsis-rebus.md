@@ -1,9 +1,9 @@
----
-title: "Necesse est in ipsis rebus"
-date: 2018-03-05T01:49:24+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Necesse est in ipsis rebus"
+date = 2018-03-05T01:49:24+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliud igitur esse
 censet gaudere, aliud non dolere. Est autem a te semper dictum nec gaudere

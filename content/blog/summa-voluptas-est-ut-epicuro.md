@@ -1,9 +1,9 @@
----
-title: "Summa voluptas est ut epicuro"
-date: 2017-09-27T11:42:11+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Summa voluptas est ut epicuro"
+date = 2017-09-27T11:42:11+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum valitudo: miser
 morbus. Age nunc isti doceant, vel tu potius quis enim ista melius? Ut id aliis

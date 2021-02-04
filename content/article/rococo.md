@@ -1,8 +1,8 @@
----
-title: "Rococo"
-date: 2020-08-22T13:19:08+01:00
-draft: false
----
++++
+title = "Rococo"
+date = 2020-08-22T13:19:08+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis enim
 est, qui non videat haec esse in natura rerum tria? Quid de Platone

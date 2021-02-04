@@ -1,8 +1,8 @@
----
-title: "Ossobuco"
-date: 2020-01-31T18:07:02+01:00
-draft: false
----
++++
+title = "Ossobuco"
+date = 2020-01-31T18:07:02+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod autem
 principium officii quaerunt, melius quam Pyrrho; Vitiosum est enim in

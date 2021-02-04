@@ -1,8 +1,8 @@
----
-title: "Eggs Benedict"
-date: 2020-11-11T18:07:29+01:00
-draft: false
----
++++
+title = "Eggs Benedict"
+date = 2020-11-11T18:07:29+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et
 hercule-fatendum est enim, quod sentio -mirabilis est apud illos

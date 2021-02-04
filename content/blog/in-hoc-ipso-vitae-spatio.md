@@ -1,9 +1,9 @@
----
-title: "In hoc ipso vitae spatio"
-date: 2017-11-21T01:33:25+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "In hoc ipso vitae spatio"
+date = 2017-11-21T01:33:25+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et harum quidem rerum
 facilis est et expedita distinctio. Haeret in salebra. Itaque primos congressus

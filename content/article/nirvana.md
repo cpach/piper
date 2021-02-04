@@ -1,8 +1,8 @@
----
-title: "Nirvana"
-date: 2020-10-15T09:19:28+01:00
-draft: false
----
++++
+title = "Nirvana"
+date = 2020-10-15T09:19:28+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qualem igitur
 hominem natura inchoavit? Qua tu etiam inprudens utebare non

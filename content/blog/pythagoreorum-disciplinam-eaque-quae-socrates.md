@@ -1,9 +1,9 @@
----
-title: "Pythagoreorum disciplinam eaque quae socrates"
-date: 2019-03-11T16:25:54+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Pythagoreorum disciplinam eaque quae socrates"
+date = 2019-03-11T16:25:54+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed emolumenta
 communia esse dicuntur, recte autem facta et peccata non habentur communia. Nam

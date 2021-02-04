@@ -1,9 +1,9 @@
----
-title: "Afficiare non relinques amicum tamen"
-date: 2020-07-26T02:29:13+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Afficiare non relinques amicum tamen"
+date = 2020-07-26T02:29:13+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Audax negotium,
 dicerem impudens, nisi hoc institutum postea translatum ad philosophos nostros

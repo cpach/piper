@@ -1,8 +1,8 @@
----
-title: "Philology"
-date: 2021-01-31T11:51:25+01:00
-draft: false
----
++++
+title = "Philology"
+date = 2021-01-31T11:51:25+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos autem non
 solum beatae vitae istam esse oblectationem videmus, sed etiam

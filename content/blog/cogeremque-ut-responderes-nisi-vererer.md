@@ -1,9 +1,9 @@
----
-title: "Cogeremque ut responderes nisi vererer"
-date: 2017-03-10T16:05:10+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Cogeremque ut responderes nisi vererer"
+date = 2017-03-10T16:05:10+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cave putes quicquam
 esse verius. Habent enim et bene longam et satis litigiosam disputationem.

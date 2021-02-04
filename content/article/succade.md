@@ -1,8 +1,8 @@
----
-title: "Succade"
-date: 2021-01-22T11:19:34+01:00
-draft: false
----
++++
+title = "Succade"
+date = 2021-01-22T11:19:34+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui haec
 patefactio quasi rerum opertarum, cum quid quidque sit aperitur,

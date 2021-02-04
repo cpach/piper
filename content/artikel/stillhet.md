@@ -1,8 +1,8 @@
----
-title: "Stillhet"
-date: 2020-05-10T22:26:03+01:00
-draft: false
----
++++
+title = "Stillhet"
+date = 2020-05-10T22:26:03+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quid
 minus probandum quam esse aliquem beatum nec satis beatum? Ne

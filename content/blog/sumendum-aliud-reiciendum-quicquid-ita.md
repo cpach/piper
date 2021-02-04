@@ -1,9 +1,9 @@
----
-title: "Sumendum aliud reiciendum quicquid ita"
-date: 2015-02-09T11:19:38+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Sumendum aliud reiciendum quicquid ita"
+date = 2015-02-09T11:19:38+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mihi enim erit isdem
 istis fortasse iam utendum. An dubium est, quin virtus ita maximam partem

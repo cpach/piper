@@ -1,9 +1,9 @@
----
-title: "Sit aliqua culpa eius qui"
-date: 2017-08-06T18:59:52+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Sit aliqua culpa eius qui"
+date = 2017-08-06T18:59:52+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non dolere, inquam,
 istud quam vim habeat postea videro; Sic, et quidem diligentius saepiusque ista

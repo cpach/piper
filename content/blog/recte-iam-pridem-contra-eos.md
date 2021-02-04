@@ -1,9 +1,9 @@
----
-title: "Recte iam pridem contra eos"
-date: 2020-12-21T16:35:58+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Recte iam pridem contra eos"
+date = 2020-12-21T16:35:58+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ex rebus enim
 timiditas, non ex vocabulis nascitur. Et quidem, inquit, vehementer errat;

@@ -1,9 +1,9 @@
----
-title: "Quod et posse fieri intellegimus"
-date: 2017-07-05T23:47:30+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Quod et posse fieri intellegimus"
+date = 2017-07-05T23:47:30+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non quaeritur autem
 quid naturae tuae consentaneum sit, sed quid disciplinae. Illi enim inter se

@@ -1,9 +1,9 @@
----
-title: "Mihi videri solent in omni"
-date: 2017-09-18T08:19:10+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Mihi videri solent in omni"
+date = 2017-09-18T08:19:10+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum mihi Piso: Quid
 ergo? Duo Reges: constructio interrete. Neque solum ea communia, verum etiam

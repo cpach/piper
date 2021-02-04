@@ -1,9 +1,9 @@
----
-title: "Atque etiam explicandam putant idem"
-date: 2015-09-12T14:59:03+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Atque etiam explicandam putant idem"
+date = 2015-09-12T14:59:03+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quorum altera prosunt,
 nocent altera. Claudii libidini, qui tum erat summo ne imperio, dederetur. Qui

@@ -1,9 +1,9 @@
----
-title: "Et certamen honestum et disputatio"
-date: 2017-11-14T13:46:11+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Et certamen honestum et disputatio"
+date = 2017-11-14T13:46:11+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis, quaeso, illum
 negat et bonum virum et comem et humanum fuisse? Eiuro, inquit adridens,

@@ -1,9 +1,9 @@
----
-title: "Partem vacuam tutela reliquerunt crasso"
-date: 2016-08-24T01:20:58+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Partem vacuam tutela reliquerunt crasso"
+date = 2016-08-24T01:20:58+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illum mallem levares,
 quo optimum atque humanissimum virum, Cn. Idque testamento cavebit is, qui

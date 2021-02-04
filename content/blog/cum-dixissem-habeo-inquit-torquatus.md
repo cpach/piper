@@ -1,9 +1,9 @@
----
-title: "Cum dixissem habeo inquit torquatus"
-date: 2015-06-16T23:00:13+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Cum dixissem habeo inquit torquatus"
+date = 2015-06-16T23:00:13+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo,
 Erillus iam diu abiecti. Immo vero, inquit, ad beatissime vivendum parum est,

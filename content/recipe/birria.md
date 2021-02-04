@@ -1,8 +1,8 @@
----
-title: "Birria"
-date: 2020-12-31T10:07:24+01:00
-draft: false
----
++++
+title = "Birria"
+date = 2020-12-31T10:07:24+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iam id ipsum
 absurdum, maximum malum neglegi. In quo etsi est magnus, tamen nova

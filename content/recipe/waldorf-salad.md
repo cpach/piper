@@ -1,8 +1,8 @@
----
-title: "Waldorf Salad"
-date: 2021-01-05T11:07:12+01:00
-draft: false
----
++++
+title = "Waldorf Salad"
+date = 2021-01-05T11:07:12+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita graviter
 et severe voluptatem secrevit a bono. Nonne odio multos dignos

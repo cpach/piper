@@ -1,9 +1,9 @@
----
-title: "Partis quae per se expetatur"
-date: 2015-11-28T02:17:46+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Partis quae per se expetatur"
+date = 2015-11-28T02:17:46+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. At enim hic etiam
 dolore. Servari enim iustitia nisi a forti viro, nisi a sapiente non potest. Hi

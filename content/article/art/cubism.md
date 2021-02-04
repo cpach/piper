@@ -1,8 +1,8 @@
----
-title: "Cubism"
-date: 2020-11-07T22:09:23+01:00
-draft: false
----
++++
+title = "Cubism"
+date = 2020-11-07T22:09:23+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Equidem etiam
 Epicurum, in physicis quidem, Democriteum puto. Aliter autem vobis

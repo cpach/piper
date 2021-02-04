@@ -1,9 +1,9 @@
----
-title: "Sive extremum sive ultimum definiebas"
-date: 2018-08-02T04:03:14+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Sive extremum sive ultimum definiebas"
+date = 2018-08-02T04:03:14+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam his libris eum
 malo quam reliquo ornatu villae delectari. Si de re disceptari oportet, nulla

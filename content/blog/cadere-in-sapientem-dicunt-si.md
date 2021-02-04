@@ -1,9 +1,9 @@
----
-title: "Cadere in sapientem dicunt si"
-date: 2018-04-18T13:11:32+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Cadere in sapientem dicunt si"
+date = 2018-04-18T13:11:32+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negabat igitur ullam
 esse artem, quae ipsa a se proficisceretur; Illa sunt similia: hebes acies est

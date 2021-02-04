@@ -1,9 +1,9 @@
----
-title: "De virtutibus dicta sunt quem"
-date: 2015-01-14T14:50:00+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "De virtutibus dicta sunt quem"
+date = 2015-01-14T14:50:00+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis enim potest ea,
 quae probabilia videantur ei, non probare? Sit sane ista voluptas. Ne amores

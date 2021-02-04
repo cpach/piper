@@ -1,8 +1,8 @@
----
-title: "De Stijl"
-date: 2020-10-20T22:10:14+01:00
-draft: false
----
++++
+title = "De Stijl"
+date = 2020-10-20T22:10:14+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud
 possit, inquit, negare? His similes sunt omnes, qui virtuti student

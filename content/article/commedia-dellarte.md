@@ -1,8 +1,8 @@
----
-title: "Commedia dell’arte"
-date: 2020-09-09T17:19:21+01:00
-draft: false
----
++++
+title = "Commedia dell’arte"
+date = 2020-09-09T17:19:21+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nihil ad rem!
 Ne sit sane; Non autem hoc: igitur ne illud quidem. Quid autem habent

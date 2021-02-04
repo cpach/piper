@@ -1,9 +1,9 @@
----
-title: "Autem nihil tam perspicuum videtur"
-date: 2016-01-14T14:23:22+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Autem nihil tam perspicuum videtur"
+date = 2016-01-14T14:23:22+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dic in quovis conventu
 te omnia facere, ne doleas. Estne, quaeso, inquam, sitienti in bibendo

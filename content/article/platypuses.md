@@ -1,8 +1,8 @@
----
-title: "Platypuses"
-date: 2020-06-04T20:52:28+01:00
-draft: false
----
++++
+title = "Platypuses"
+date = 2020-06-04T20:52:28+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si quidem,
 inquit, tollerem, sed relinquo. In his igitur partibus duabus nihil

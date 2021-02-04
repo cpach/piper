@@ -1,8 +1,8 @@
----
-title: "Impressionism"
-date: 2021-02-02T22:05:11+01:00
-draft: false
----
++++
+title = "Impressionism"
+date = 2021-02-02T22:05:11+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam illud
 vehementer repugnat, eundem beatum esse et multis malis oppressum. Qui

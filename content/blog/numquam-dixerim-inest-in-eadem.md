@@ -1,9 +1,9 @@
----
-title: "Numquam dixerim inest in eadem"
-date: 2016-11-23T03:50:45+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Numquam dixerim inest in eadem"
+date = 2016-11-23T03:50:45+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur potestis
 voluptate omnia dirigentes aut tueri aut retinere virtutem. Quae hic rei

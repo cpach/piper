@@ -1,9 +1,9 @@
----
-title: "Logikh dicitur iste vester plane"
-date: 2020-09-27T11:56:58+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Logikh dicitur iste vester plane"
+date = 2020-09-27T11:56:58+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum cur ista res
 digna odio est, nisi quod est turpis? Sed residamus, inquit, si placet. In motu

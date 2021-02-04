@@ -1,9 +1,9 @@
----
-title: "Esse confiteor nec tamen ab"
-date: 2019-03-24T01:04:59+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Esse confiteor nec tamen ab"
+date = 2019-03-24T01:04:59+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qualem igitur hominem
 natura inchoavit? Nec vero hoc oratione solum, sed multo magis vita et factis

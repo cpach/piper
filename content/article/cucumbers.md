@@ -1,8 +1,8 @@
----
-title: "Cucumbers"
-date: 2020-05-30T20:50:04+01:00
-draft: false
----
++++
+title = "Cucumbers"
+date = 2020-05-30T20:50:04+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commoda autem
 et incommoda in eo genere sunt, quae praeposita et reiecta diximus;

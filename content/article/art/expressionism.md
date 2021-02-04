@@ -1,8 +1,8 @@
----
-title: "Expressionism"
-date: 2021-01-02T22:07:11+01:00
-draft: false
----
++++
+title = "Expressionism"
+date = 2021-01-02T22:07:11+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erit enim
 mecum, si tecum erit. Nam, ut sint illa vendibiliora, haec uberiora

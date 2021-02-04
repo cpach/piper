@@ -1,9 +1,9 @@
----
-title: "Dicunt si qui eius modi"
-date: 2018-11-25T17:36:56+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Dicunt si qui eius modi"
+date = 2018-11-25T17:36:56+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et non ex maxima parte
 de tota iudicabis? Sed tamen omne, quod de re bona dilucide dicitur, mihi

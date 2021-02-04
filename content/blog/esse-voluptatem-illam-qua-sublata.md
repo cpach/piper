@@ -1,9 +1,9 @@
----
-title: "Esse voluptatem illam qua sublata"
-date: 2018-12-17T17:41:42+00:00
-draft: false
-author: "e_murray"
----
++++
+title = "Esse voluptatem illam qua sublata"
+date = 2018-12-17T17:41:42+00:00
+draft = false
+author = "e_murray"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Pythagora?
 Bona autem corporis huic sunt, quod posterius posui, similiora. Sed haec in

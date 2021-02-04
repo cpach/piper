@@ -1,8 +1,8 @@
----
-title: "Pointillism"
-date: 2020-12-14T22:08:22+01:00
-draft: false
----
++++
+title = "Pointillism"
+date = 2020-12-14T22:08:22+01:00
+draft = false
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Contemnit
 enim disserendi elegantiam, confuse loquitur. Virtutibus igitur

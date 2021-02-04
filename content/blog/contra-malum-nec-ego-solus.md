@@ -1,9 +1,9 @@
----
-title: "Contra malum nec ego solus"
-date: 2020-12-07T09:27:04+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Contra malum nec ego solus"
+date = 2020-12-07T09:27:04+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud, quaeso,
 nesciebat? At enim, qua in vita est aliquid mali, ea beata esse non potest.

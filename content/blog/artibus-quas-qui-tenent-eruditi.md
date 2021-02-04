@@ -1,9 +1,9 @@
----
-title: "Artibus quas qui tenent eruditi"
-date: 2019-11-22T09:00:07+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Artibus quas qui tenent eruditi"
+date = 2019-11-22T09:00:07+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod ea non
 occurrentia fingunt, vincunt Aristonem; Quid enim possumus hoc agere divinius?

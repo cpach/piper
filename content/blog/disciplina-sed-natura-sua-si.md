@@ -1,9 +1,9 @@
----
-title: "Disciplina sed natura sua si"
-date: 2019-08-11T04:25:33+00:00
-draft: false
-author: "f_graham"
----
++++
+title = "Disciplina sed natura sua si"
+date = 2019-08-11T04:25:33+00:00
+draft = false
+author = "f_graham"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qui-vere falsone,
 quaerere mittimus-dicitur oculis se privasse; Commoda autem et incommoda in eo

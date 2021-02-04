@@ -1,9 +1,9 @@
----
-title: "Autem et bonis ab iis"
-date: 2015-05-23T03:36:45+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Autem et bonis ab iis"
+date = 2015-05-23T03:36:45+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non potes, nisi
 retexueris illa. Ex ea difficultate illae fallaciloquae, ut ait Accius,

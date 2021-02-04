@@ -1,9 +1,9 @@
----
-title: "Ii remotis sensibus ne id"
-date: 2020-07-07T13:38:17+00:00
-draft: false
-author: "f_morrison"
----
++++
+title = "Ii remotis sensibus ne id"
+date = 2020-07-07T13:38:17+00:00
+draft = false
+author = "f_morrison"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem
 illi videri nihil dolere. An quod ita callida est, ut optime possit

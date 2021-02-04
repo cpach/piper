@@ -2,6 +2,7 @@
 title: "Beatusne fuerit cum extremum vitae"
 date: 2020-05-13T16:01:43+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non modo carum sibi

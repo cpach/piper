@@ -2,6 +2,7 @@
 title: "Ipsam vis quam modo ego"
 date: 2016-05-17T18:36:59+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Apud ceteros autem

@@ -2,6 +2,7 @@
 title: "Et recta sint ipsa esse"
 date: 2016-10-15T11:36:14+00:00
 draft: false
+author: "e_murray"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si longus, levis

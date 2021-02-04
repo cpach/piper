@@ -2,6 +2,7 @@
 title: "Conamini quod fieri nullo modo"
 date: 2020-07-23T05:56:59+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum ille timide vel

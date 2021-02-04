@@ -2,6 +2,7 @@
 title: "Habeat incolumis et de virtutibus"
 date: 2019-02-15T21:33:31+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nummus in Croesi

@@ -2,6 +2,7 @@
 title: "Tibi tam propinquo respondeat fortitudinis"
 date: 2020-07-15T03:38:24+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. An est aliquid, quod

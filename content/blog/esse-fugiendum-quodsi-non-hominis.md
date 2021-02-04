@@ -2,6 +2,7 @@
 title: "Esse fugiendum – quodsi non hominis"
 date: 2021-01-02T18:02:03+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem

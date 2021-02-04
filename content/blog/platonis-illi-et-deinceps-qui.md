@@ -2,6 +2,7 @@
 title: "Platonis illi et deinceps qui"
 date: 2019-09-23T10:56:58+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Pythagora? An

@@ -2,6 +2,7 @@
 title: "Duo reges constructio interrete quam"
 date: 2018-12-19T04:22:21+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haeret in salebra.

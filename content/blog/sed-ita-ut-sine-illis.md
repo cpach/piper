@@ -2,6 +2,7 @@
 title: "Sed ita ut sine illis"
 date: 2018-09-11T01:23:12+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nihil enim iam habes,

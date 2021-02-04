@@ -2,6 +2,7 @@
 title: "Et certamen honestum et disputatio"
 date: 2017-11-14T13:46:11+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis, quaeso, illum

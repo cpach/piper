@@ -2,6 +2,7 @@
 title: "In epicuri schola lycurgum solonem"
 date: 2020-09-08T16:39:10+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ex eorum enim scriptis

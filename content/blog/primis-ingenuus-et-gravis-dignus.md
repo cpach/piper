@@ -3,6 +3,7 @@ title: "Primis ingenuus et gravis dignus"
 date: 2021-01-27T15:46:56+00:00
 lastmod: 2021-02-02T11:39:50+01:00
 draft: false
+author: "e_murray"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Expectoque quid ad id,

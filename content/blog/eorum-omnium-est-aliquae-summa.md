@@ -2,6 +2,7 @@
 title: "Eorum omnium est aliquae summa"
 date: 2019-05-02T20:14:13+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eodem modo is enim

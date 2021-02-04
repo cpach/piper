@@ -2,6 +2,7 @@
 title: "Asotorum vita quod reprehendat vides"
 date: 2019-04-27T03:57:23+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ad corpus diceres

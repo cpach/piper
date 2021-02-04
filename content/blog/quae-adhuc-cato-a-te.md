@@ -2,6 +2,7 @@
 title: "Quae adhuc cato a te"
 date: 2018-08-27T20:11:51+00:00
 draft: false
+author: "f_graham"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec bene dicuntur,

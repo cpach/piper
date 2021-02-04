@@ -2,6 +2,7 @@
 title: "Quod honestum esset atque laudabile"
 date: 2020-11-28T01:49:47+00:00
 draft: false
+author: "e_murray"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idcirco enim non

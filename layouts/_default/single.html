@@ -3,7 +3,12 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
-<p>Published: {{ .Date.Format "2006-01-02" }}
+<p>
+{{ if isset .Params "author" }}
+{{ $author := index .Site.Data.authors .Params.author }}
+Author: {{ $author.name }}<br>
+{{ end }}
+Published: {{ .Date.Format "2006-01-02" }}
 {{ if ne .Lastmod .Date }}
 <br>Last modified: {{ .Lastmod.Format "2006-01-02" }}
 {{ end }}

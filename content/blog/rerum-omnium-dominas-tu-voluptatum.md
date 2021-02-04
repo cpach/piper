@@ -2,6 +2,7 @@
 title: "Rerum omnium dominas tu voluptatum"
 date: 2017-04-04T21:20:39+00:00
 draft: false
+author: "e_murray"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tenesne igitur,

@@ -2,6 +2,7 @@
 title: "Vita existere num igitur dubium"
 date: 2017-12-02T05:11:00+00:00
 draft: false
+author: "f_morrison"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varietates autem

@@ -14,6 +14,8 @@ quid est boni praeter summam voluptatem, et eam sempiternam? Duo Reges:
 constructio interrete. Istam voluptatem, inquit, Epicurus ignorat? Qui ita
 affectus, beatum esse numquam probabis;
 
+LOL
+
 Ita fit cum gravior, tum etiam splendidior oratio. Respondent extrema primis,
 media utrisque, omnia omnibus. Potius ergo illa dicantur: turpe esse, viri non
 esse debilitari dolore, frangi, succumbere. Scio enim esse quosdam, qui quavis

@@ -1,5 +1,5 @@
 +++
-title = "Absens-Haeres-Non-Erit"
+title = "Absens haeres non erit"
 date = "2021-02-23T20:28:07+01:00"
 draft = false
 +++

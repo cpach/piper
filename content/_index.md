@@ -7,6 +7,9 @@ draft = false
 This site is my little playground for trying stuff out with the
 formidable [Hugo CMS](https://gohugo.io/).
 
+There’s [a repo for this site on
+GitHub](https://github.com/cpach/piper).
+
 Best regards,  
 [Carl](https://hsm.tunnel53.net/)
 

@@ -1,4 +1,4 @@
-# The Piper at the Gates of Dawn.
+# The Piper at the Gates of Dawn!
 
 This site is my little playground for trying stuff out with the
 formidable [Hugo CMS](https://gohugo.io/).
